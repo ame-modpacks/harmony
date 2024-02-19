@@ -1,2 +1,26 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "5d6ea0cebb49bd66b8ff5262809f5b73725c3a5881606a291ded2cc2372de95a"
+metafile = true
+
+[[files]]
+file = "mods/moddetectionpreventer.pw.toml"
+hash = "d5b31676ddcb673733e322e0e3b15894924ab6136a28b3573462b2307b6fd56b"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "a045df0a5d03ef89d92ca9318aa42a5a5e7617b37dd38d32b0a7058c0f6f4ef7"
+metafile = true
