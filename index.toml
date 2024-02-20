@@ -71,11 +71,6 @@ hash = "6ea1eddd8ff08bd26c296bf6c1e3906c0e2ec5ad0b334a0adca4f1f2a1bb03cc"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "706924659dac92dc50b584b1ecf8f90ba628ede1e029d8642ca4aaec4d9eb3d5"
-metafile = true
-
-[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "13baf86c7202df729de43ea5ac8766581c39e35651391d080a9a2a33252c2996"
 metafile = true
@@ -273,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "7dfbf79bf874dcfdb27e4bbc92da56cdab2ffdbee459dfd2eee5a57dacb59ed2"
+metafile = true
+
+[[files]]
+file = "mods/world-host.pw.toml"
+hash = "eab5a30d30ab3837e16512c2b4e3831458ddec1aedd040501a23a70ebf8ab71a"
 metafile = true
 
 [[files]]
